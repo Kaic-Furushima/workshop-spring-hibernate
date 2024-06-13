@@ -4,6 +4,7 @@
 
 - Java
 - Spring Boot 3
+- Maven
 
 ## ✨ Motivação
 
